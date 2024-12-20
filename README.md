@@ -1,1 +1,11 @@
 # CS-330-Comp-Graphic-and-Visualization
+
+I approach designing software and developing programs from what I would call a full-body perspective. I start by building the skeleton of the project, which is the basic functionality and uses. Then, I add the muscle. These are the more refined methods that add extra power to my program. Finally, I flesh it out by making the software more user-friendly, and easily understood. Ensuring that everything works as intended. 
+
+This project helped me craft the design skills I need to understand how to create, use, and adjust 3D shapes. I draw as a hobby, so I understand a lot about 2D design, but translating my knowledge into 3D proved to be challenging. This project helped me to work on my spatial awareness and understanding of how 3D shapes work. 
+
+My design approach was to start with a simple complex object that didn't require me to worry too much about rotation or placement. This helped me to learn how to create, size, and move meshes and objects for my scene. From there, I got more complex with my creations. Eventually, I began to do the finer details like texture and lighting, in which I followed the same ideas. This approach could be applied to future work because it allowed me to learn what I was doing as I went, until eventually, I got very comfortable with using OpenGL. (Or in the future, whatever program I'd be using.)
+
+Because I was given ample opportunity to build this program from the bottom up through each milestone, I had more time than ever to focus on crafting my code and making it legible and maintainable. So, for that reason, throughout the milestones, I concentrated on making my code easy to read. If I could change anything however, I would make more use of the different working files and instead give each object its file so instead of scrolling past a long line of sculpt code, You could select the file for "frog sculpt" or "books sculpt."
+
+In my professional life, CS will help me to reach my goal of becoming an experienced programmer. In my personal life, however, this will allow me the opportunity to further develop my creative skills and give me even more mediums to make art with. Computational Graphics opens the doorway for more job opportunities in areas I may not have considered prior such as web design, video games, and product mockups.
